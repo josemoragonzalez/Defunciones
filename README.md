@@ -9,7 +9,6 @@ Para armar este análisis se requieren esencialmente 3 series de datos:
 - Defunciones diarias 2020: NO ME FUE POSIBLE ENCONTRAR ESTE DATASET
 - Defunciones diarias por COVID reportadas por el MINSAL. Fuente: Ministerio de Salud, https://www.gob.cl/coronavirus/cifrasoficiales/#reportes 
 
-El último dataset lo estoy registrando en un spreedsheet de google que publicaré pronto, junto con una actualización del gráfico añadiendo esa serie.
 
 
 # SI ALGUIEN TIENE DATOS DE DEFUNCIONES DIARIAS EN CHILE 2020!!!
